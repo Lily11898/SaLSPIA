@@ -1,5 +1,7 @@
 # SaLSPIA: Spectrally Adaptive LSPIA for B-Spline Fitting
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20475842.svg)](https://doi.org/10.5281/zenodo.20475842)
+
 MATLAB reference implementation accompanying the paper:
 
 > Spectral Adaptivity for Iterative Least-Squares B-Spline Curve and Surface Fitting  
@@ -95,6 +97,18 @@ The reindeer contour (`cur_data deer`) and G-loop curve
 (`s_loop_curve_data.txt`) are required by some experiments but are not bundled in
 the public release unless redistribution permission has been confirmed. See
 `DATA_SOURCES.md` for source links and installation paths.
+
+## How to Cite
+
+If you use this code, please cite both the paper and the software:
+
+**Paper:**
+> Xingxuan Peng and Yutong Li. Spectral Adaptivity for Iterative Least-Squares
+> B-Spline Curve and Surface Fitting.
+
+**Software:**
+> Xingxuan Peng and Yutong Li. SaLSPIA: Spectrally Adaptive LSPIA for B-Spline
+> Fitting. Zenodo. https://doi.org/10.5281/zenodo.20475842
 
 ## License
 
