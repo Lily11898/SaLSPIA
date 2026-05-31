@@ -20,7 +20,6 @@ See `DATA_SOURCES.md` before publishing or redistributing third-party data.
 ## Quick Start
 
 ```matlab
-cd SaLSPIA_release
 setup_paths
 cd experiments
 run_surface_comparison
